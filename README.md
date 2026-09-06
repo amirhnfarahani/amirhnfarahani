@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Web Developer | 🐍 Python Developer<br><br>Passionate about building modern, responsive and interactive web applications.<br><br>🛠️ Tech Stack:<br>HTML • CSS • JavaScript • Tailwind CSS • Vue.js • Python • Bootstrap <br><br>🚀 Always learning, building, and turning ideas into real projects.<br>
+💻 Web Developer | front-end Developer <br><br>Passionate about building modern, responsive and interactive web applications.<br><br>🛠️ Tech Stack:<br>HTML • CSS • JavaScript • Tailwind CSS • Vue.js • Python • Bootstrap <br><br>🚀 Always learning, building, and turning ideas into real projects.<br>
 
 
 ## 🌐 Socials:
